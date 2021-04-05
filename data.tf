@@ -1,3 +1,1 @@
-data "aws_availability_zones" "az" {
-}
-
+data "aws_availability_zones" "az" {}
