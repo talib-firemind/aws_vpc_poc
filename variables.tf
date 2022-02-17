@@ -25,7 +25,7 @@ variable "vpc_name" {
   default = "name"
 }
 
-variable "Enable_dns_support" {
+variable "enable_dns_support" {
   type        = bool
   description = "Set true or false if you want dns support"
   default     = false
